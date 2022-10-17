@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ahmedelmwafy@gmail.com**
 
-- 📄 Know about my experiences [2 years](2 years)
+- 📄 Know about my experiences (2 years)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
