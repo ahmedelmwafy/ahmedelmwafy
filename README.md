@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Ahmed Elmwafy</h1>
-  <h3>A Flutter Developer from Mansoura, Egypt</h3>
+  <h3>A Flutter Team Leader from Mansoura, Egypt</h3>
 </div>
 
 <div align="center">
@@ -28,6 +28,7 @@
     <li><a href="https://quraani.xyz/">قرآنكم</a></li>
     <li><a href="https://play.google.com/store/apps/details?id=com.mohamed_taher">افيهات محمد طاهر</a></li>
     <li><a href="https://play.google.com/store/apps/details?id=com.re.me">Re Me</a></li>
+    <li><a href="https://play.google.com/store/apps/details?id=com.zawaj.islamy">زواج اسلامي</a></li>
   </ul>
 </div>
 
@@ -38,7 +39,7 @@
 <div align="center">
   <p>💬 Ask me about Flutter</p>
   <p>📫 How to reach me: <a href="mailto:ahmedelmwafy@gmail.com">ahmedelmwafy@gmail.com</a></p>
-  <p>📄 2 years of professional experience</p>
+  <p>📄 4 years of professional experience</p>
 </div>
 
 <div align="center">
@@ -87,6 +88,15 @@
 </div>
 
 <div align="center">
+  <h3>Contributions:</h3>
+  <p>
+    <a href="https://github.com/ahmedelmwafy/contribution-1">Contribution 1</a>
+    <a href="https://github.com/ahmedelmwafy/contribution-2">Contribution 2</a>
+    <a href="https://github.com/ahmedelmwafy/contribution-3">Contribution 3</a>
+  </p>
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedelmwafy&show_icons=true&locale=en&layout=compact" alt="Top Languages">
 </div>
 
@@ -95,5 +105,4 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedelmwafy&" alt="GitHub Streak">
-</div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedelmwafy&
