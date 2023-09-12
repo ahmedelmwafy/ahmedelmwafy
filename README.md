@@ -87,14 +87,6 @@
   </p>
 </div>
 
-<div align="center">
-  <h3>Contributions:</h3>
-  <p>
-    <a href="https://github.com/ahmedelmwafy/contribution-1">Contribution 1</a>
-    <a href="https://github.com/ahmedelmwafy/contribution-2">Contribution 2</a>
-    <a href="https://github.com/ahmedelmwafy/contribution-3">Contribution 3</a>
-  </p>
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedelmwafy&show_icons=true&locale=en&layout=compact" alt="Top Languages">
