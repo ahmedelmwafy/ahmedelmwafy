@@ -26,6 +26,7 @@
   <p>🔭 I'm currently working on:</p>
   <ul>
     <li><a href="https://quraani.xyz/">قرآنكم</a></li>
+    <li><a href="https://onelink.to/cjfgza">أسعار الذهب في مصر</a></li>
     <li><a href="https://play.google.com/store/apps/details?id=com.mohamed_taher">افيهات محمد طاهر</a></li>
     <li><a href="https://play.google.com/store/apps/details?id=com.re.me">Re Me</a></li>
     <li><a href="https://play.google.com/store/apps/details?id=com.zawaj.islamy">زواج اسلامي</a></li>
