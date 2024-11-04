@@ -34,7 +34,7 @@
 </div>
 
 <div align="center">
-  <p>👨‍💻 All of my projects are available at <a href="https://bit.ly/AhmedElmwafyCV">https://bit.ly/AhmedElmwafyCV</a></p>
+  <p>👨‍💻 All of my projects are available at <a href="[https://bit.ly/AhmedElmwafyCV](https://flowcv.com/resume/9atgakj49o)">Ahmed Elmwafy CV</a></p>
 </div>
 
 <div align="center">
