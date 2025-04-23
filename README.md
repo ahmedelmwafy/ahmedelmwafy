@@ -69,7 +69,8 @@
 ---
 
 ### 💧 Cairo Water Week  
-📅 Official app for Egypt’s annual global water conference. Get the latest updates, event schedules, speaker bios, and venue maps.  
+📅 **Official mobile app for the Ministry of Water Resources and Irrigation in Egypt.**  
+Designed to power Egypt’s annual global water conference. Offers latest updates, full event schedules, speaker bios, venue maps, and real-time announcements.
 [👉 Play Store](https://play.google.com/store/apps/details?id=com.cairowater.week)
 
 ---
