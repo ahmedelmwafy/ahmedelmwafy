@@ -1,29 +1,35 @@
 <div align="center">
-  <h1>👋 Hi, I'm Ahmed Elmwafy</h1>
-  <h3>🚀 Flutter Team Leader from Mansoura, Egypt</h3>
+  <h1>Hi 👋, I'm Ahmed Elmwafy</h1>
+  <h3>A Flutter Team Leader from Mansoura, Egypt</h3>
+</div>
 
+<div align="center">
   <a href="https://github.com/ahmedelmwafy">
-    <img src="https://img.shields.io/github/followers/ahmedelmwafy?style=social" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/ahmedelmwafy?style=social" alt="GitHub followers">
   </a>
   <a href="https://github.com/ahmedelmwafy">
-    <img src="https://img.shields.io/github/stars/ahmedelmwafy?style=social" alt="GitHub stars" />
+    <img src="https://img.shields.io/github/stars/ahmedelmwafy?style=social" alt="GitHub stars">
   </a>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=ahmedelmwafy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <br/><br/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmedelmwafy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+</div>
+
+<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ahmedelmwafy&theme=flat&margin-w=10" alt="GitHub Profile Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ahmedelmwafy" alt="GitHub Profile Trophy">
   </a>
 </div>
 
 ---
 
-## 📦 My Flutter Packages
+## 🚀 Published Flutter Packages
 
 <div align="center">
 
 <a href="https://pub.dev/packages/flutter_assets_cleaner">
-  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/null/external-cleaning-home-appliance-flatart-icons-outline-flatarticons.png" width="64"/><br/>
+  <img src="https://img.icons8.com/external-flat-icons-inmotus-design/64/external-cleaner-household-flat-icons-inmotus-design.png" width="64"/><br/>
   <strong>flutter_assets_cleaner</strong><br/>
   <sub>Analyze & remove unused assets</sub>
 </a>
@@ -31,7 +37,7 @@
 <br/><br/>
 
 <a href="https://pub.dev/packages/flutter_en_json_extractor">
-  <img src="https://img.icons8.com/ios-filled/64/null/json.png" width="64"/><br/>
+  <img src="https://img.icons8.com/color/64/google-translate.png" width="64"/><br/>
   <strong>flutter_en_json_extractor</strong><br/>
   <sub>Extract English localization to JSON</sub>
 </a>
@@ -39,7 +45,7 @@
 <br/><br/>
 
 <a href="https://pub.dev/packages/flutter_ar_json_extractor">
-  <img src="https://img.icons8.com/ios-filled/64/null/json.png" width="64"/><br/>
+  <img src="https://img.icons8.com/color/64/google-translate.png" width="64"/><br/>
   <strong>flutter_ar_json_extractor</strong><br/>
   <sub>Extract Arabic localization to JSON</sub>
 </a>
@@ -50,57 +56,73 @@
 
 ## 📱 Published Apps
 
-- **🟡 [Gold Prices in Egypt (Android)](https://play.google.com/store/apps/details?id=com.goldpricesegy.app)**  
-- **🟡 [Gold Prices in Egypt (iOS)](https://apps.apple.com/us/app/أسعار-الذهب-في-مصر/id6477148336)**  
-- **💧 [Cairo Water Week](https://play.google.com/store/apps/details?id=com.cairowater.week)**  
-- **📖 [Quraankom (Android)](https://play.google.com/store/apps/details?id=com.mwafy.quraankom)**  
-- **📖 [Quraankom (iOS)](https://apps.apple.com/us/app/قرآنكم/id1608194269)**  
+### 🟡 Gold Prices in Egypt
+
+- **Android**:  
+  📈 Track real-time gold prices in Egypt with a sleek and easy-to-use interface. Stay updated with market trends and visualize daily price movements.  
+  [👉 Play Store](https://play.google.com/store/apps/details?id=com.goldpricesegy.app)
+
+- **iOS**:  
+  📈 Same features as the Android version — optimized for Apple users who want to keep an eye on the gold market.  
+  [👉 App Store](https://apps.apple.com/us/app/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1/id6477148336)
 
 ---
 
-## 🧠 All My Projects
-
-📄 [My CV](https://flowcv.com/resume/9atgakj49o)
-
----
-
-## 📫 Reach Me
-
-- ✉️ [ahmedelmwafy@gmail.com](mailto:ahmedelmwafy@gmail.com)
+### 💧 Cairo Water Week  
+📅 Official app for Egypt’s annual global water conference. Get the latest updates, event schedules, speaker bios, and venue maps.  
+[👉 Play Store](https://play.google.com/store/apps/details?id=com.cairowater.week)
 
 ---
 
-## 🌐 Connect with Me
+### 📖 Quraankom
+
+- **Android**:  
+  📖 A beautifully designed Quran app with recitations, translations, and bookmarks to help you stay connected with the Holy Quran.  
+  [👉 Play Store](https://play.google.com/store/apps/details?id=com.mwafy.quraankom)
+
+- **iOS**:  
+  📖 Quran reading made smooth and easy on iPhone. Includes the same features from Android with added iOS polish.  
+  [👉 App Store](https://apps.apple.com/us/app/%D9%82%D8%B1%D8%A2%D9%86%D9%83%D9%85/id1608194269)
+
+---
+
+## 👨‍💻 All of my projects are available at:  
+📄 [Ahmed Elmwafy CV](https://flowcv.com/resume/9atgakj49o)
+
+---
+
+## 📫 Reach Me  
+📧 Email: [ahmedelmwafy@gmail.com](mailto:ahmedelmwafy@gmail.com)
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://twitter.com/devahmedelmwafy"><img src="https://img.icons8.com/color/48/twitter--v1.png" width="40" /></a>
-  <a href="https://linkedin.com/in/ahmedelmwafy"><img src="https://img.icons8.com/color/48/linkedin.png" width="40" /></a>
-  <a href="https://fb.com/devahmedelmwafy"><img src="https://img.icons8.com/color/48/facebook.png" width="40" /></a>
-  <a href="https://instagram.com/devahmedelmwafy"><img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="40" /></a>
-  <a href="https://www.behance.net/ahmedelmwafy"><img src="https://img.icons8.com/ios-filled/50/behance.png" width="40" /></a>
-  <a href="https://www.youtube.com/c/ahmedelmwafy"><img src="https://img.icons8.com/color/48/youtube-play.png" width="40" /></a>
+  <a href="https://twitter.com/devahmedelmwafy"><img src="https://img.icons8.com/color/48/twitter--v1.png" width="40"/></a>
+  <a href="https://linkedin.com/in/ahmedelmwafy"><img src="https://img.icons8.com/color/48/linkedin.png" width="40"/></a>
+  <a href="https://fb.com/devahmedelmwafy"><img src="https://img.icons8.com/color/48/facebook-new.png" width="40"/></a>
+  <a href="https://instagram.com/devahmedelmwafy"><img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="40"/></a>
+  <a href="https://www.behance.net/ahmedelmwafy"><img src="https://img.icons8.com/color/48/behance.png" width="40"/></a>
+  <a href="https://www.youtube.com/c/ahmedelmwafy"><img src="https://img.icons8.com/color/48/youtube-play.png" width="40"/></a>
 </p>
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Languages and Tools
 
 <p align="center">
-  <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" /></a>
-  <a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" /></a>
-  <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" /></a>
-  <a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" /></a>
-  <a href="https://www.adobe.com/products/xd.html"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="40" /></a>
+  <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/></a>
+  <a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/></a>
+  <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/></a>
+  <a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></a>
+  <a href="https://www.adobe.com/products/xd.html"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="40"/></a>
 </p>
 
 ---
-
-## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedelmwafy&show_icons=true&locale=en&layout=compact" alt="Top Languages">
-  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedelmwafy&show_icons=true&locale=en" alt="GitHub Stats">
-  <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedelmwafy" alt="GitHub Streak Stats">
 </div>
