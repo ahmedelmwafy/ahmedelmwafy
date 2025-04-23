@@ -29,7 +29,7 @@
 <div align="center">
 
 <a href="https://pub.dev/packages/flutter_assets_cleaner">
-  <img src="https://img.icons8.com/external-flat-icons-inmotus-design/64/external-cleaner-household-flat-icons-inmotus-design.png" width="64"/><br/>
+  <img src="https://raw.githubusercontent.com/ahmedelmwafy/flutter_assets_cleaner/main/assets/icon.png" width="64"/><br/>
   <strong>flutter_assets_cleaner</strong><br/>
   <sub>Analyze & remove unused assets</sub>
 </a>
@@ -37,7 +37,7 @@
 <br/><br/>
 
 <a href="https://pub.dev/packages/flutter_en_json_extractor">
-  <img src="https://img.icons8.com/color/64/google-translate.png" width="64"/><br/>
+  <img src="https://raw.githubusercontent.com/ahmedelmwafy/flutter_en_json_extractor/main/assets/icon.png" width="64"/><br/>
   <strong>flutter_en_json_extractor</strong><br/>
   <sub>Extract English localization to JSON</sub>
 </a>
@@ -45,10 +45,14 @@
 <br/><br/>
 
 <a href="https://pub.dev/packages/flutter_ar_json_extractor">
-  <img src="https://img.icons8.com/color/64/google-translate.png" width="64"/><br/>
+  <img src="https://raw.githubusercontent.com/ahmedelmwafy/flutter_ar_json_extractor/main/assets/icon.png" width="64"/><br/>
   <strong>flutter_ar_json_extractor</strong><br/>
   <sub>Extract Arabic localization to JSON</sub>
 </a>
+
+<br/><br/>
+
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40" alt="Dart Icon"/>
 
 </div>
 
