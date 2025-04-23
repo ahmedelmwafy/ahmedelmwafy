@@ -109,17 +109,6 @@
 
 ---
 
-## 🛠 Languages and Tools
-
-<p align="center">
-  <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/></a>
-  <a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/></a>
-  <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/></a>
-  <a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></a>
-  <a href="https://www.adobe.com/products/xd.html"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="40"/></a>
-</p>
-
----
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedelmwafy&show_icons=true&locale=en&layout=compact" alt="Top Languages">
