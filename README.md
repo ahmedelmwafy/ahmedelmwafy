@@ -25,13 +25,16 @@
 ---
 
 ## 🚀 Published Flutter Packages
-<div align="center"> <a href="https://pub.dev/packages/flutter_assets_cleaner"> <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-package-coding-and-development-flat-flat-juicy-fish.png" width="64"/><br/> <strong>flutter_assets_cleaner</strong><br/> <sub>Analyze & remove unused assets</sub> </a>
-<br/><br/>
 
-<a href="https://pub.dev/packages/flutter_en_json_extractor"> <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-package-coding-and-development-flat-flat-juicy-fish.png" width="64"/><br/> <strong>flutter_en_json_extractor</strong><br/> <sub>Extract English localization to JSON</sub> </a>
-<br/><br/>
+* **[flutter\_assets\_cleaner](https://pub.dev/packages/flutter\_assets\_cleaner)**
+    Analyze & remove unused assets
 
-<a href="https://pub.dev/packages/flutter_ar_json_extractor"> <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-package-coding-and-development-flat-flat-juicy-fish.png" width="64"/><br/> <strong>flutter_ar_json_extractor</strong><br/> <sub>Extract Arabic localization to JSON</sub> </a> </div>
+* **[flutter\_en\_json\_extractor](https://pub.dev/packages/flutter\_en\_json\_extractor)**
+    Extract English localization to JSON
+
+* **[flutter\_ar\_json\_extractor](https://pub.dev/packages/flutter\_ar\_json\_extractor)**
+    Extract Arabic localization to JSON
+
 ---
 
 ## 📱 Published Apps
