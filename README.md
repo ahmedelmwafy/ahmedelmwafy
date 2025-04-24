@@ -34,6 +34,9 @@
 
 * **[flutter\_ar\_json\_extractor](https://pub.dev/packages/flutter\_ar\_json\_extractor)**
     Extract Arabic localization to JSON
+  
+* **[flutter\_packages\_remover](https://pub.dev/packages/flutter_packages_remover)**
+    Eemove Unused Packages From Your Flutter Project's 
 
 ---
 
