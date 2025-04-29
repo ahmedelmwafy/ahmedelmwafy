@@ -38,6 +38,11 @@
 * **[flutter\_packages\_remover](https://pub.dev/packages/flutter_packages_remover)**
     Remove Unused Packages From Your Flutter Project's 
 
+* **[flutter\_packages\_remover](https://pub.dev/packages/flutter_packages_remover](https://pub.dev/packages/flutter_screen_generator))**
+    A powerful CLI tool to help Flutter developers automatically generate screens, set up Dio & SharedPreferences, and integrate API methods into BLoC/Cubit architecture—all with one command!
+
+
+
 ---
 
 ## 📱 Published Apps
