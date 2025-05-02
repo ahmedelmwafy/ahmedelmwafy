@@ -40,7 +40,9 @@
 
 * **[flutter\_screen\_generator](https://pub.dev/packages/flutter_packages_remover](https://pub.dev/packages/flutter_screen_generator))**
     A powerful CLI tool to help Flutter developers automatically generate screens, set up Dio & SharedPreferences, and integrate API methods into BLoC/Cubit architecture—all with one command!
+  
 
+* **[pusher_client_fixed](https://pub.dev/packages/pusher_client_fixed)**    Migrated the package to be compatible with the latest version of Flutter.
 
 
 ---
