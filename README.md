@@ -35,6 +35,10 @@
 * **[flutter\_ar\_json\_extractor](https://pub.dev/packages/flutter\_ar\_json\_extractor)**
     Extract Arabic localization to JSON
   
+* **[flutter\_route\_manager](https://pub.dev/packages/flutter\_ar\_json\_extractor](https://pub.dev/packages/flutter_route_manager))**
+A lightweight and static navigation utility for Flutter that simplifies route management using a global NavigatorState. Navigate from anywhere in your app — even outside widget trees — without passing BuildContext.
+
+  
 * **[flutter\_packages\_remover](https://pub.dev/packages/flutter_packages_remover)**
     Remove Unused Packages From Your Flutter Project's 
 
