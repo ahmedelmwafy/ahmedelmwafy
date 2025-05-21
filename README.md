@@ -47,6 +47,8 @@
 
 * **[pusher_client_fixed](https://pub.dev/packages/pusher_client_fixed)**    Migrated the package to be compatible with the latest version of Flutter.
 
+* **[load_more_wrapper](https://pub.dev/packages/load_more_wrapper)**  
+    A stateless and reusable Flutter widget to add load-more functionality to scrollable widgets like ListView and GridView, with optional animated loader and footer.
 
 ---
 
